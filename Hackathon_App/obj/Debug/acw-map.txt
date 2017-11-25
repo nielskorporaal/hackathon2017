@@ -1,0 +1,4 @@
+Hackathon_App.MainActivity, Hackathon_App;md503331f589d8bc1ebcbbe92600cfde095.MainActivity
+Hackathon_App.MainActivity, Hackathon_App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md503331f589d8bc1ebcbbe92600cfde095.MainActivity
+Hackathon_App.MainActivity;md503331f589d8bc1ebcbbe92600cfde095.MainActivity
+hackathon_app.MainActivity;md503331f589d8bc1ebcbbe92600cfde095.MainActivity

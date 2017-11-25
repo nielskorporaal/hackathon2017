@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Sdk>
-  <AndroidApiLevel>25</AndroidApiLevel>
-  <AndroidApiLevelName>25</AndroidApiLevelName>
+  <AndroidApiLevel>27</AndroidApiLevel>
+  <AndroidApiLevelName>27</AndroidApiLevelName>
   <AndroidNdkPath>C:\Program Files\Android\ndk\android-ndk-r13b</AndroidNdkPath>
   <AndroidSdkBuildToolsPath>C:\Users\Bram\AppData\Local\Android\android-sdk\build-tools\25.0.1</AndroidSdkBuildToolsPath>
   <AndroidSdkBuildToolsBinPath>C:\Users\Bram\AppData\Local\Android\android-sdk\build-tools\25.0.1</AndroidSdkBuildToolsBinPath>

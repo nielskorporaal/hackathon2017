@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C108F147-5694-495E-986B-B13FBF898315}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Hackathon_App/MainActivity.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Hackathon__App AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+</Properties>
